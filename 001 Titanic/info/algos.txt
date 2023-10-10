@@ -1,0 +1,17 @@
+Kaggle
+1. Random Forest Classifier (tutorial): 0.77511
+2. Random Forest Classifier (edad mean): 0.78229
+7. KNN (neighbors = 3): 0.71291
+7. KNN (neighbors = 5): 0.72727
+
+
+No Kaggle
+3. Regresion logistica: 0.80
+4. Arbol de decision: 0.77
+5. Support Vector Machine (SVM): 0.76
+6. Gradient Boosting: 0.81
+
+
+Quedan por probar:
+8. Gradient Boosting
+9. Lasso y Elastic Net Regression
